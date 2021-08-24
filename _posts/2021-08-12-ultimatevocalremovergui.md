@@ -1,6 +1,6 @@
 ---
 title:  "ultimatevocalremovergui"
-search: false
+search: true
 categories: 
   - aws
 last_modified_at: 2021-08-12T08:06:00-05:00
